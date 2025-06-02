@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+gem "erb"
+gem "logger"
+
 gem "jekyll-theme-chirpy", "~> 7.3"
 
 gem "html-proofer", "~> 5.0", group: :test
